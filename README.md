@@ -14,16 +14,16 @@ Penelitian ini menganalisis **pengaruh kebiasaan begadang terhadap konsentrasi d
 | # | Tujuan |
 |---|--------|
 | 1 | Mengetahui **pola kebiasaan begadang** mahasiswa ITSB Angkatan 25 (durasi tidur, frekuensi, jam tidur) |
-| 2 | Mengukur **dampak begadang terhadap konsentrasi dan performa akademik** (fokus, ngantuk, daya ingat, nilai) |
-| 3 | Mengidentifikasi **faktor penyebab utama** kebiasaan begadang mahasiswa |
-| 4 | Menilai **tingkat kesadaran mahasiswa** tentang dampak begadang dan keinginan mengubah pola tidur |
+| 2 | Mengukur **dampak begadang terhadap konsentrasi dan performa akademik** mahasiswa ITSB Angkatan 25 (fokus, ngantuk, daya ingat, nilai) |
+| 3 | Mengidentifikasi **faktor penyebab utama** kebiasaan begadang mahasiswa ITSB Angkatan 25 |
+| 4 | Menilai **tingkat kesadaran mahasiswa ITSB Angkatan 25** tentang dampak begadang dan keinginan mengubah pola tidur |
 
 ---
 
 ## Hasil Utama
 
 ### Data Responden
-- **Total responden:** 69 orang
+- **Total responden:** 69 orang (mahasiswa ITSB Angkatan 25)
 - **Jumlah variabel:** 25 kolom
 - **Data duplikat:** 0
 
@@ -41,8 +41,8 @@ Penelitian ini menganalisis **pengaruh kebiasaan begadang terhadap konsentrasi d
 
 ### Temuan Kunci
 
-**Tujuan 1 — Pola Begadang**
--  **58.0%** (40 dari 69) mahasiswa hanya tidur **5–6 jam/malam** — jauh di bawah rekomendasi WHO (7–9 jam)
+**Tujuan 1 — Pola Begadang (Mahasiswa ITSB Angkatan 25)**
+-  **58.0%** (40 dari 69) mahasiswa Angkatan 25 hanya tidur **5–6 jam/malam** — jauh di bawah rekomendasi WHO (7–9 jam)
 -  Mayoritas baru tidur pada pukul **00.00–01.00**
 -  Rata-rata begadang **3.6x/minggu**
 
@@ -131,10 +131,11 @@ Output yang dihasilkan:
 
 ##  Limitasi Penelitian
 
-- **Ukuran sampel:** n=69, di bawah target Slovin 91 → **Margin of Error aktual ±11.8%**
-- **Metode sampling:** Convenience sampling → **tidak representatif** seluruh mahasiswa ITSB
+- **Cakupan sampel:** Penelitian ini hanya merepresentasikan **mahasiswa ITSB Angkatan 25**, bukan seluruh mahasiswa ITSB dari semua angkatan
+- **Ukuran sampel:** n=69, di bawah target Slovin 91 (untuk populasi Angkatan 25) → **Margin of Error aktual ±11.8%**
+- **Metode sampling:** Convenience sampling → **tidak representatif** seluruh mahasiswa ITSB Angkatan 25
 - **Dominasi prodi:** S1 Sains Data **52.2%** dari total responden
-- **Dominasi semester:** Semester 1–2 mencakup **91.3%** dari total responden
+- **Dominasi semester:** Semester 1–2 mencakup **91.3%** dari total responden — konsisten dengan target populasi Angkatan 25
 - **Korelasi:** Tidak signifikan pada n=69 → perlu sampel lebih besar untuk konfirmasi
 
 ---
@@ -152,4 +153,3 @@ Mata Kuliah: **Sampling dan Survei**
 - Uji statistik: **Spearman Rank Correlation** (dipilih karena data ordinal, tidak mensyaratkan distribusi normal)
 - Batas signifikansi: **p < 0.05** (standar ilmu sosial)
 - Interpretasi kekuatan korelasi: |r| < 0.3 = Lemah | 0.3–0.5 = Sedang | >0.5 = Kuat
-
