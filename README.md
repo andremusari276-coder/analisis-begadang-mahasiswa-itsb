@@ -1,11 +1,11 @@
-#  Analisis Kebiasaan Begadang & Konsentrasi Mahasiswa ITSB
+#  Analisis Kebiasaan Begadang & Konsentrasi Mahasiswa ITSB Angkatan 25
 ### Kelompok 7 — Mata Kuliah Sampling dan Survei | S1 Sains Data ITSB
 
 ---
 
 ## Deskripsi Proyek
 
-Penelitian ini menganalisis **pengaruh kebiasaan begadang terhadap konsentrasi dan performa akademik mahasiswa Institut Teknologi Sains Bandung (ITSB)** melalui pendekatan survei kuantitatif. Data dikumpulkan menggunakan Google Forms dan diolah secara statistik dengan Python.
+Penelitian ini menganalisis **pengaruh kebiasaan begadang terhadap konsentrasi dan performa akademik mahasiswa Institut Teknologi Sains Bandung (ITSB) Angkatan 25** melalui pendekatan survei kuantitatif. Data dikumpulkan menggunakan Google Forms dan diolah secara statistik dengan Python.
 
 ---
 
@@ -13,7 +13,7 @@ Penelitian ini menganalisis **pengaruh kebiasaan begadang terhadap konsentrasi d
 
 | # | Tujuan |
 |---|--------|
-| 1 | Mengetahui **pola kebiasaan begadang** mahasiswa ITSB (durasi tidur, frekuensi, jam tidur) |
+| 1 | Mengetahui **pola kebiasaan begadang** mahasiswa ITSB Angkatan 25 (durasi tidur, frekuensi, jam tidur) |
 | 2 | Mengukur **dampak begadang terhadap konsentrasi dan performa akademik** (fokus, ngantuk, daya ingat, nilai) |
 | 3 | Mengidentifikasi **faktor penyebab utama** kebiasaan begadang mahasiswa |
 | 4 | Menilai **tingkat kesadaran mahasiswa** tentang dampak begadang dan keinginan mengubah pola tidur |
