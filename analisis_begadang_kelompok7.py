@@ -1,6 +1,6 @@
 # ============================================================
 #  ANALISIS SURVEY: Pengaruh Kebiasaan Begadang terhadap
-#  Konsentrasi Mahasiswa ITSB — Kelompok 7
+#  Konsentrasi Mahasiswa ITSB Angkatan 25 — Kelompok 7
 #  Mata Kuliah: Sampling dan Survei | S1 Sains Data ITSB
 # ============================================================
 #
@@ -156,7 +156,7 @@ WARNA_HIJAU = '#1D9E75'   # hijau   — untuk hal positif / kesadaran
 
 fig1, axes = plt.subplots(1, 2, figsize=(14, 6))
 fig1.suptitle(
-    'Pola Kebiasaan Begadang Mahasiswa ITSB (n=69)',
+    'Pola Kebiasaan Begadang Mahasiswa ITSB Angkatan 25 (n=69)',
     fontsize=14, fontweight='bold', y=1.01
 )
 
@@ -316,7 +316,7 @@ for bar, m, ket in zip(bars2, means_dampak, keterangan):
 
 ax.set_xlim(1, 5.3)
 ax.set_xlabel('Rata-rata Skor (Skala 1–5)', fontsize=10)
-ax.set_title('Dampak Begadang terhadap Performa Akademik Mahasiswa ITSB',
+ax.set_title('Dampak Begadang terhadap Performa Akademik Mahasiswa ITSB Angkatan 25',
              fontweight='bold', fontsize=13)
 
 # Legenda manual — lebih informatif dari legenda otomatis
@@ -364,7 +364,7 @@ print(f"  → Tidak ada variabel yang rata-ratanya melebihi 3.1 — menunjukkan 
 
 fig3, axes3 = plt.subplots(1, 2, figsize=(14, 6))
 fig3.suptitle(
-    'Korelasi Spearman & Kesadaran Mahasiswa ITSB',
+    'Korelasi Spearman & Kesadaran Mahasiswa ITSB Angkatan 25',
     fontsize=14, fontweight='bold'
 )
 
@@ -497,7 +497,7 @@ print("     → Kesadaran tinggi, tapi belum diikuti perubahan perilaku nyata.")
 
 print("\n" + "=" * 65)
 print("  KESIMPULAN SURVEY")
-print("  Kebiasaan Begadang & Konsentrasi Mahasiswa ITSB — Kelompok 7")
+print("  Kebiasaan Begadang & Konsentrasi Mahasiswa ITSB Angkatan 25 — Kelompok 7")
 print("=" * 65)
 
 tidur_dominan = df['durasi_tidur'].value_counts().idxmax()
@@ -524,7 +524,7 @@ print(f"    {pct_sadar}% ingin ubah pola tidur, tapi merasa sulit melakukannya."
 
 print(f"\n  Limitasi")
 print(f"    - n=69, target Slovin 91 (MoE aktual ±11.8%)")
-print(f"    - Convenience sampling → tidak representatif seluruh ITSB")
+print(f"    - Convenience sampling → tidak representatif seluruh ITSB Angkatan 25")
 print(f"    - Dominasi Sains Data ({round((df['prodi']=='S1 - Sains Data').mean()*100,1)}%) "
       f"& Semester 1–2 ({round((df['semester']=='Semester 1–2').mean()*100,1)}%)")
 print(f"    - Korelasi tidak signifikan → perlu sampel lebih besar untuk konfirmasi")
